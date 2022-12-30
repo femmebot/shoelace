@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "@custom-elements-manifest/analyzer": "^0.4.12",
-    "@open-wc/testing": "^2.5.33",
+    "@open-wc/testing": "^3.1.7",
     "@types/color": "^3.0.1",
     "@web/dev-server-esbuild": "^0.2.12",
     "@web/test-runner": "^0.13.5",
