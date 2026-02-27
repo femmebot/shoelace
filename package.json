@@ -54,7 +54,7 @@
     "@web/test-runner-puppeteer": "^0.10.0",
     "bluebird": "^3.7.2",
     "bootstrap-icons": "^1.6.1",
-    "browser-sync": "^2.26.14",
+    "browser-sync": "^3.0.4",
     "chalk": "^4.1.0",
     "command-line-args": "^5.2.0",
     "comment-parser": "^1.1.5",
@@ -75,7 +75,7 @@
     "strip-css-comments": "^4.1.0",
     "tslib": "^2.2.0",
     "typescript": "^4.2.4",
-    "wait-on": "^5.2.1"
+    "wait-on": "^9.0.4"
   },
   "husky": {
     "hooks": {
